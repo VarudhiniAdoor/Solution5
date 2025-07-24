@@ -20,7 +20,7 @@
         }
         public void Display()
         {
-            Console.WriteLine("ID is " + id);
+            Console.WriteLine("ID : " + id);
             Console.WriteLine("Name is " + name);
             Console.WriteLine("Dept is "  + dept);
         }
